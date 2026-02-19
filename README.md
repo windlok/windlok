@@ -60,9 +60,3 @@ Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir s
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=windlok&theme=radical" alt="Top Languages" />
 </div>
 
----
-<div align="center">
-  <b>Profil Ziyaretçileri</b><br>
-  <img src="https://komarev.com/ghpvc/?username=windlok&style=flat-square&color=blue&label=Ziyaretçi" alt="Profile Counter" />
-</div>
-
