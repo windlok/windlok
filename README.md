@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Yönetim+Bilişim+Sistemleri+(YBS)+Öğrencisi;Yapay+Zeka+ve+Otonom+Sistemler;C%2FC%2B%2B%2C+Python%2C+Flutter+Geliştirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Yönetim+Bilişim+Sistemleri+(YBS)+Öğrencisi;Yapay+Zeka+ve+Otonom+Sistemler;C%2FC%2B%2B%2C+Python%2C+Flutter+Geliştirici" alt="Typing SVG" />
 </div>
 
 ---
@@ -18,7 +18,7 @@ Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir s
   - Python ve Qt ile ağ paketi oluşturucu (packet generator) geliştiriyorum.
 - 🌱 **Şu an öğrendiklerim:** Docker, Gelişmiş C/C++ (Soket Programlama, Bellek Yönetimi).
 - 💼 **Girişimim:** **Muta Labs** çatısı altında oyun ve mobil uygulamalar geliştiriyorum.
-- 📫 **Bana ulaşın:** [E-posta adresini buraya yaz](mailto:senin@email.com)
+- 📫 **Bana ulaşın:** tastay2@gmail.com
 
 ---
 
@@ -40,9 +40,9 @@ Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir s
 
 ---
 
-### 🏆 GitHub Başarılarım
+### 📈 Son 31 Günlük Kod Aktivitem
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=windlok&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=windlok&theme=radical&bg_color=0D1117&hide_border=true" />
 </div>
 
 ---
@@ -50,14 +50,14 @@ Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir s
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=windlok&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=windlok&theme=radical" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=windlok&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windlok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=windlok&theme=radical" alt="Top Languages" />
 </div>
 
 ---
@@ -66,14 +66,3 @@ Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir s
   <img src="https://komarev.com/ghpvc/?username=windlok&style=flat-square&color=blue&label=Ziyaretçi" alt="Profile Counter" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windlok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
----
-<div align="center">
-  <b>Profil Ziyaretçileri</b><br>
-  <img src="https://profile-counter.glitch.me/windlok/count.svg" />
-</div>
