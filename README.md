@@ -19,5 +19,5 @@ Yazılım geliştirme, yapay zeka, otonom sistemler ve elektronik üzerine çal�
 
 ### 📈 GitHub İstatistiklerim
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SENIN_GITHUB_KULLANICI_ADIN&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=windlok&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
 </p>
