@@ -50,8 +50,20 @@ Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir s
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=windlok&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=windlok&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=windlok&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windlok&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+<div align="center">
+  <b>Profil Ziyaretçileri</b><br>
+  <img src="https://komarev.com/ghpvc/?username=windlok&style=flat-square&color=blue&label=Ziyaretçi" alt="Profile Counter" />
 </div>
 
 <br>
