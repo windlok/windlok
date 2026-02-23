@@ -9,7 +9,7 @@
 ---
 
 ### 👨‍💻 Hakkımda
-Necmettin Erbakan Üniversitesi'nde 3. sınıf öğrencisi ve tam zamanlı bir stajyerim. Yazılım geliştirme, yapay zeka, otonom sistemler ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
+Necmettin Erbakan Üniversitesi'nde 4. sınıf öğrencisi ve tam zamanlı bir stajyerim. Yazılım geliştirme, yapay zeka, otonom sistemler ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
 
 - 🔭 **Şu an üzerinde çalıştıklarım:**
   - **SkyLog:** Yapay zeka destekli otonom drone teslimat sistemi.
