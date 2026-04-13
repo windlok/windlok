@@ -16,8 +16,10 @@ Necmettin Erbakan Üniversitesi'nde 4. sınıf öğrencisi ve tam zamanlı bir s
   - **MutaView:** Flutter tabanlı ekran yansıtma uygulaması.
   - Kendi verilerimle yerel yapay zeka (LLM) modelleri eğitiyorum.
   - Python ve Qt ile ağ paketi oluşturucu (packet generator) geliştiriyorum.
-- 🌱 **Şu an öğrendiklerim:** Docker, Gelişmiş C/C++ (Soket Programlama, Bellek Yönetimi).
-- 💼 **Girişimim:** **Muta Labs** çatısı altında oyun ve mobil uygulamalar geliştiriyorum.
+  - Pythonda veri bilimi (numpy,pandas,matloblit,tenserflow) kullanıyorum
+  - Pythonda görüntü işleme üzerine çalışıyorum (kendi projelerim) opencv
+- 🌱 **Şu an öğrendiklerim:** PYTHON Veri Bilimi ve Veri İşleme Üzerinde Çalışıyorum. Bir yandan da kendimi otonom dron sistemleri konusunda geliştirmek için bazı projelere bakıyorum.
+- 💼 **Girişimim:** **Muta Labs** kendi mini bir iş fikri olarak ortaya çıkan muta labs için kendi aktif kullanabileceğim mobil uygulamaları geliştiriyorum.
 - 📫 **Bana ulaşın:** tastay2@gmail.com
 
 ---
