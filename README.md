@@ -9,18 +9,21 @@
 ---
 
 ### 👨‍💻 Hakkımda
-Necmettin Erbakan Üniversitesi'nde 4. sınıf öğrencisi ve tam zamanlı bir stajyerim. Yazılım geliştirme, yapay zeka, otonom sistemler ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
+Necmettin Erbakan Üniversitesi'nde 4. sınıf YBS öğrencisi ve tam zamanlı bir stajyerim. Yazılım geliştirme, otonom sistemler ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
 
-- 🔭 **Şu an üzerinde çalıştıklarım:**
-  - **SkyLog:** Yapay zeka destekli otonom drone teslimat sistemi.
-  - Kendi verilerimle yerel yapay zeka (LLM) modelleri eğitiyorum.
-  - Python ve Qt ile ağ paketi oluşturucu (packet generator) geliştiriyorum.
-  - Pythonda veri bilimi (numpy,pandas,matloblit,tenserflow) kullanıyorum
-  - Pythonda görüntü işleme üzerine çalışıyorum (kendi projelerim) opencv
-- 🌱 **Şu an öğrendiklerim:** Python Veri Bilimi ve Veri İşleme üzerinde çalışıyorum. Bir yandan da kendimi otonom dron sistemleri konusunda geliştirmek için bazı projelere bakıyorum.
-- 💼 **Girişimim:** **Muta Labs** kendi mini bir iş fikri olarak ortaya çıkan muta labs için kendi aktif kullanabileceğim mobil uygulamaları geliştiriyorum.
+- 🔭 **Odak Noktalarım:** Python'da görüntü işleme (OpenCV) kendi projelerimi geliştirmek ve veri bilimi (NumPy, Pandas, Matplotlib) kütüphaneleriyle veri işleme süreçleri üzerine çalışmak.
+- 🌱 **Şu an öğrendiklerim:** Python veri bilimi araçlarında derinleşiyor ve otonom drone sistemleri (FPV, DJI) konusunda mekanik/yazılımsal becerilerimi geliştiriyorum.
+- 💼 **Girişimim:** **Muta Labs** adını verdiğim kişisel teknoloji laboratuvarım çatısı altında mobil uygulamalar ve oyun projeleri tasarlayıp geliştiriyorum.
 - 📫 **Bana ulaşın:** tastay2@gmail.com
 
+---
+
+### 🚀 Öne Çıkan Projelerim
+
+- **SkyLog:** Yapay zeka destekli otonom drone lojistik ve teslimat ekosistemi (Aynı zamanda otonom drone lojistiği üzerine YBS Mezuniyet Projem).
+- **Ağ Paketi Oluşturucu (Packet Generator):** Python ve Qt framework'ü kullanılarak geliştirilmiş, ağ trafiği analizi ve özel paket manipülasyonu sağlayan yazılım aracı.
+- **Yapay Zeka Tabanlı Karar Destek Sistemleri:** YBS eğitimim kapsamında veri analizi ve karar alma süreçlerini otomatize etmek üzere geliştirdiğim akademik odaklı proje.
+- **Gömülü Sistem & Maker Projeleri:** Arduino, Raspberry Pi ve C/C++ kullanarak geliştirdiğim elektronik mühendisliği odaklı çeşitli devre ve otomasyon projeleri.
 
 ---
 
@@ -36,7 +39,6 @@ Necmettin Erbakan Üniversitesi'nde 4. sınıf öğrencisi ve tam zamanlı bir s
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/LabVIEW-FFCC00?style=for-the-badge&logo=ni&logoColor=black" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </div>
 
@@ -61,4 +63,3 @@ Necmettin Erbakan Üniversitesi'nde 4. sınıf öğrencisi ve tam zamanlı bir s
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=windlok&theme=radical" alt="Top Languages" />
 </div>
-
