@@ -9,34 +9,45 @@
 ---
 
 ### 👨‍💻 Hakkımda
-Necmettin Erbakan Üniversitesi'nde 4. sınıf YBS öğrencisi ve tam zamanlı bir stajyerim. Yazılım geliştirme, otonom sistemler ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
+Necmettin Erbakan Üniversitesi'nde 4. sınıf YBS öğrencisi ve **SDT Uzay ve Savunma Teknolojileri**'nde tam zamanlı bir stajyerim. Yazılım geliştirme, otonom sistemler (drone entegrasyonları) ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
 
-- 🔭 **Odak Noktalarım:** Python'da görüntü işleme (OpenCV) kendi projelerimi geliştirmek ve veri bilimi (NumPy, Pandas, Matplotlib) kütüphaneleriyle veri işleme süreçleri üzerine çalışmak.
-- 🌱 **Şu an öğrendiklerim:** Python veri bilimi araçlarında derinleşiyor ve otonom drone sistemleri (FPV, DJI) konusunda mekanik/yazılımsal becerilerimi geliştiriyorum.
-- 💼 **Girişimim:** **Muta Labs** adını verdiğim kişisel teknoloji laboratuvarım çatısı altında mobil uygulamalar ve oyun projeleri tasarlayıp geliştiriyorum.
+- 🔭 **Odak Noktalarım:** Python'da görüntü işleme (OpenCV, YOLO) ile kendi projelerimi geliştirmek, veri bilimi (NumPy, Pandas, Matplotlib) süreçleri tasarlamak ve yazılımlarımı **Docker (Compose/Swarm)** ile konteynerize etmek.
+- 🌱 **Şu an öğrendiklerim:** Python veri bilimi araçlarında derinleşiyor, nesne tespiti ve OCR (Plaka Tanıma) modelleri üzerinde çalışıyor; ayrıca otonom drone sistemleri (FPV, DJI) konusunda mekanik/donanımsal becerilerimi geliştiriyorum.
+- 💼 **Girişimim:** **Muta Labs** adını verdiğim kişisel teknoloji laboratuvarım çatısı altında aktif kullanabileceğim mobil uygulamalar ve projeler geliştiriyorum.
 - 📫 **Bana ulaşın:** tastay2@gmail.com
 
 ---
 
 ### 🚀 Öne Çıkan Projelerim
 
-- **SkyLog:** Yapay zeka destekli otonom drone lojistik ve teslimat ekosistemi (Aynı zamanda otonom drone lojistiği üzerine YBS Mezuniyet Projem).
-- **Ağ Paketi Oluşturucu (Packet Generator):** Python ve Qt framework'ü kullanılarak geliştirilmiş, ağ trafiği analizi ve özel paket manipülasyonu sağlayan yazılım aracı.
-- **Yapay Zeka Tabanlı Karar Destek Sistemleri:** YBS eğitimim kapsamında veri analizi ve karar alma süreçlerini otomatize etmek üzere geliştirdiğim akademik odaklı proje.
-- **Gömülü Sistem & Maker Projeleri:** Arduino, Raspberry Pi ve C/C++ kullanarak geliştirdiğim elektronik mühendisliği odaklı çeşitli devre ve otomasyon projeleri.
+- **SkyLog (Otonom Drone Lojistiği)** Yapay zeka destekli otonom drone lojistik ve teslimat ekosistemi (YBS Mezuniyet Projem).  
+  `Python` `C/C++` `AI/Otonom Sistemler`
+
+- **YOLO ile Görüntü İşleme ve Plaka Tanıma** Yapay zeka destekli nesne tespiti ve OCR kullanılarak geliştirilen kamera tabanlı plaka tanıma projeleri.  
+  `Python` `OpenCV` `YOLO`
+
+- **Ağ Paketi Oluşturucu (Packet Generator)** Ağ trafiği analizi ve özel paket manipülasyonu sağlayan masaüstü yazılım aracı.  
+  `Python` `Qt Framework` `Socket Programming`
+
+- **Muta Labs Mobil Uygulamaları** Kendi mini iş fikrim kapsamında günlük hayatta aktif kullanılabilecek uygulamaların tasarlanması ve kodlanması.  
+  `Dart` `Flutter`
+
+- **Gömülü Sistem & Maker Projeleri** Özel ayarlanabilir güç kaynağı (ATX PSU) modifikasyonları, Arduino ve çeşitli sensörler kullanarak geliştirdiğim elektronik devre/otomasyon denemeleri.  
+  `Arduino` `C/C++` `Donanım Entegrasyonu`
 
 ---
 
 ### 🛠️ Teknolojiler ve Araçlar
 <div align="center">
-  <h4>Diller</h4>
+  <h4>Yazılım Dilleri & Teknolojiler</h4>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  
-  <h4>Frameworks & Araçlar</h4>
+  <br><br>
+  <h4>Frameworks, Yapay Zeka & Araçlar</h4>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
