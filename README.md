@@ -65,12 +65,12 @@ Necmettin Erbakan Üniversitesi'nde 4. sınıf YBS öğrencisi ve **SDT Uzay ve 
 ### 📊 GitHub İstatistikleri
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=windlok&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=windlok&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=windlok&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=windlok&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=windlok&theme=radical&hide_border=true&layout=compact&langs_count=6" alt="Top Languages" />
 </div>
