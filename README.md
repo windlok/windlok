@@ -8,10 +8,6 @@
 
 ---
 
-### 👨‍💻GitHub profilin (windlok) için mezuniyetini ve stajını tamamladığını vurgulayan, güncel yeteneklerini ve projelerini öne çıkaran yeni README.md metnin aşağıdadır. Bu metni doğrudan kopyalayıp GitHub profilindeki README dosyana yapıştırabilirsin.
-
----
-
 # Merhaba, Ben Mustafa TAŞTAY 👋
 
 Yönetim Bilişim Sistemleri mezunuyum; otonom sistemler, bilgisayarlı görü ve gömülü sistemler alanlarında uzmanlaşan bir teknoloji profesyoneliyim. Savunma sanayisinde donanım-yazılım entegrasyonu, test otomasyonu ve veri toplama (DAQ) sistemleri üzerine pratik tecrübeye sahibim. Makine öğrenmesi modelleri (özellikle YOLO) ile gerçek zamanlı görüntü işleme, düşük seviyeli ağ programlama ve donanım entegrasyonu gerektiren projeler geliştiriyorum. Karmaşık donanım-yazılım problemlerine yenilikçi ve optimize çözümler üretmekten keyif alıyorum. Ayrıca dijital mağazalarda donanım ve yazılım destekli projeler geliştiren Muta Labs'in kurucusuyum.
