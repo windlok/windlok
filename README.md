@@ -8,32 +8,58 @@
 
 ---
 
-### 👨‍💻 Hakkımda
-Necmettin Erbakan Üniversitesi'nde 4. sınıf YBS öğrencisi ve **SDT Uzay ve Savunma Teknolojileri**'nde tam zamanlı bir stajyerim. Yazılım geliştirme, otonom sistemler (drone entegrasyonları) ve ağ programlama üzerine çalışıyorum. Sürekli yeni teknolojiler öğreniyor, bir yandan da İngilizce seviyemi B1'e taşımak için aktif olarak pratik yapıyorum.
-
-- 🔭 **Odak Noktalarım:** Python'da görüntü işleme (OpenCV, YOLO) ile kendi projelerimi geliştirmek, veri bilimi (NumPy, Pandas, Matplotlib) süreçleri tasarlamak ve yazılımlarımı **Docker (Compose/Swarm)** ile konteynerize etmek.
-- 🌱 **Şu an öğrendiklerim:** Python veri bilimi araçlarında derinleşiyor, nesne tespiti ve OCR (Plaka Tanıma) modelleri üzerinde çalışıyor; ayrıca otonom drone sistemleri (FPV, DJI) konusunda mekanik/donanımsal becerilerimi geliştiriyorum.
-- 💼 **Girişimim:** **Muta Labs** adını verdiğim kişisel teknoloji laboratuvarım çatısı altında aktif kullanabileceğim mobil uygulamalar ve projeler geliştiriyorum.
-- 📫 **Bana ulaşın:** tastay2@gmail.com
+### 👨‍💻GitHub profilin (windlok) için mezuniyetini ve stajını tamamladığını vurgulayan, güncel yeteneklerini ve projelerini öne çıkaran yeni README.md metnin aşağıdadır. Bu metni doğrudan kopyalayıp GitHub profilindeki README dosyana yapıştırabilirsin.
 
 ---
 
-### 🚀 Öne Çıkan Projelerim
+# Merhaba, Ben Mustafa TAŞTAY 👋
 
-- **SkyLog (Otonom Drone Lojistiği)** Yapay zeka destekli otonom drone lojistik ve teslimat ekosistemi (YBS Mezuniyet Projem).  
-  `Python` `C/C++` `AI/Otonom Sistemler`
+Yönetim Bilişim Sistemleri mezunuyum; otonom sistemler, bilgisayarlı görü ve gömülü sistemler alanlarında uzmanlaşan bir teknoloji profesyoneliyim. Savunma sanayisinde donanım-yazılım entegrasyonu, test otomasyonu ve veri toplama (DAQ) sistemleri üzerine pratik tecrübeye sahibim. Makine öğrenmesi modelleri (özellikle YOLO) ile gerçek zamanlı görüntü işleme, düşük seviyeli ağ programlama ve donanım entegrasyonu gerektiren projeler geliştiriyorum. Karmaşık donanım-yazılım problemlerine yenilikçi ve optimize çözümler üretmekten keyif alıyorum. Ayrıca dijital mağazalarda donanım ve yazılım destekli projeler geliştiren Muta Labs'in kurucusuyum.
 
-- **YOLO ile Görüntü İşleme ve Plaka Tanıma** Yapay zeka destekli nesne tespiti ve OCR kullanılarak geliştirilen kamera tabanlı plaka tanıma projeleri.  
-  `Python` `OpenCV` `YOLO`
+### 🎓 Eğitim ve Deneyim
 
-- **Ağ Paketi Oluşturucu (Packet Generator)** Ağ trafiği analizi ve özel paket manipülasyonu sağlayan masaüstü yazılım aracı.  
-  `Python` `Qt Framework` `Socket Programming`
+* **Eğitim:** Necmettin Erbakan Üniversitesi, Yönetim Bilişim Sistemleri bölümünden (2022 - 2026) başarıyla mezun oldum (GPA: 3.06 / 4.00).
 
-- **Muta Labs Mobil Uygulamaları** Kendi mini iş fikrim kapsamında günlük hayatta aktif kullanılabilecek uygulamaların tasarlanması ve kodlanması.  
-  `Dart` `Flutter`
 
-- **Gömülü Sistem & Maker Projeleri** Özel ayarlanabilir güç kaynağı (ATX PSU) modifikasyonları, Arduino ve çeşitli sensörler kullanarak geliştirdiğim elektronik devre/otomasyon denemeleri.  
-  `Arduino` `C/C++` `Donanım Entegrasyonu`
+* **Deneyim:** SDT Uzay ve Savunma Sanayi'de Yazılım Mühendisliği Stajımı (Eylül 2025 - Mayıs 2026) tamamladım. Bu süreçte LabVIEW ile veri toplama (DAQ) sistemleri geliştirdim, donanım haberleşmesi için C/C++ ile soket programlama (Winsock) yaptım ve Python/Qt kullanarak ağ paketi üretme araçları kodladım.
+
+
+
+### 💻 Yetenekler & Teknolojiler
+
+* **Programlama Dilleri:** Python, C, C++, C#, Java, HTML5, CSS3
+
+
+* **Yapay Zeka & Bilgisayarlı Görü:** YOLO11, Makine Öğrenmesi, TensorFlow
+
+
+* **Test, Donanım & Ağ:** LabVIEW, DAQ Sistemleri, Soket Programlama (Winsock), Phidgets, TCP/IP
+
+
+* **Araçlar & Lisanslar:** Git, Docker, PyQt5 | Dron Pilotu (İHA-1)
+
+
+
+### 🚀 Öne Çıkan Projeler
+
+* **SkyGuard:** YOLO11 modeli kullanılarak nesne segmentasyonu tabanlı, gerçek zamanlı yangın ve duman tespiti yapan bilgisayarlı görü sistemi.
+
+
+* **MutaFileTransfer & Packet Generator:** C, TCP/IP ve soket programlama teknikleri kullanılarak ağ üzerinden güvenli dosya aktarımı sağlayan sunucu mimarisi ve ağ trafiği simülasyon aracı.
+
+
+* **Akıllı Trafik İstihbarat Paneli:** Görüntü işleme (YOLO) algoritmalarıyla araç tespiti ve yoğunluk analizi yapan yapay zeka destekli panel.
+
+
+* **SKYVERGE, SKYTAG & QREX:** Muta Labs bünyesinde Flutter ile geliştirilen drone uçuş planlama (SKYVERGE) ve RFID/NFC/QR yönetim (SKYTAG & QREX) uygulamaları.
+
+
+
+### 📫 İletişim
+
+* **LinkedIn:** [mustafa-tastay](https://www.google.com/search?q=https://linkedin.com/in/mustafa-tastay)
+
+* **E-posta:** tastay2@gmail.com
 
 ---
 
