@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Yönetim+Bilişim+Sistemleri+(YBS)+Öğrencisi;Yapay+Zeka+ve+Otonom+Sistemler;C%2FC%2B%2B%2C+Python%2C+Flutter+Geliştirici" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00599C&center=true&vCenter=true&width=600&lines=Yönetim+Bilişim+Sistemleri+(YBS)+Mezunu;Yapay+Zeka+ve+Otonom+Sistemler;C%2FC%2B%2B%2C+Python%2C+Flutter+Geliştirici" alt="Typing SVG" />
 </div>
 
 ---
